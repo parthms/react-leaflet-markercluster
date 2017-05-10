@@ -1,5 +1,4 @@
-import React, {Children, cloneElement} from 'react';
-import PropTypes from 'prop-types';
+import React, {Children, cloneElement, PropTypes} from 'react';
 
 import {LayerGroup} from 'react-leaflet';
 import L from 'leaflet'
